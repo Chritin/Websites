@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
+
+    <title>My website</title>
+</head>
+    
+    <body style="font-family: 'Anton', sans-serif;">
+ <a href="Websitepage%201.html" style = "font-size:30px"> Home </a>
+    
+      
+
+    <h1 style=" text-align:center;font-size:60pt;background-color:chartreuse;font-style:font-family: 'Anton' sans-serif;">
+        My Favorite Subject </h1>
+    
+    <p style="text-align:center;font-size:30pt"> My favorite subject in school is Science. I am really interested in the human body and diseases. I also enjoy learning how things work like physics and all that. 
+        
+         </p> 
+        
+         
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </body>
+
+
+
+
+
